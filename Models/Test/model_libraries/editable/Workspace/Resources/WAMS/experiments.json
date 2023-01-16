@@ -1,0 +1,26 @@
+{
+  "Workspace.ClosedSteamCycleTest" : [ {
+    "created" : "2023-01-16T21:14:12.433Z",
+    "lastModified" : "2023-01-16T21:14:12.433Z",
+    "name" : "Experiment 1",
+    "expressions" : [ {
+      "name" : "turbine.use_partialArc",
+      "expression" : "false"
+    }, {
+      "name" : "steamLPNomPressure",
+      "expression" : "0.05e5"
+    } ],
+    "model" : "Workspace.ClosedSteamCycleTest",
+    "settings" : {
+      "dynamic" : {
+        "stopTime" : 1000.0,
+        "tolerance" : 1.0E-6
+      },
+      "steadyState" : { },
+      "custom" : { },
+      "simulationType" : "dynamic"
+    },
+    "filters" : [ ],
+    "isDefault" : true
+  } ]
+}

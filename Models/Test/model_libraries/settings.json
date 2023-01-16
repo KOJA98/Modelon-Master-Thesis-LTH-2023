@@ -1,0 +1,62 @@
+{
+  "libraries" : {
+    "Hydraulics" : {
+      "disabled" : false
+    },
+    "JetPropulsion" : {
+      "disabled" : false
+    },
+    "ThermalPower" : {
+      "disabled" : false
+    },
+    "AircraftDynamics" : {
+      "disabled" : false
+    },
+    "FuelCell" : {
+      "disabled" : false
+    },
+    "IndustryExamples" : {
+      "disabled" : false
+    },
+    "FuelSystem" : {
+      "disabled" : false
+    },
+    "AirConditioning" : {
+      "disabled" : false
+    },
+    "Modelon" : {
+      "disabled" : false
+    },
+    "EnvironmentalControl" : {
+      "disabled" : false
+    },
+    "HydroPower" : {
+      "disabled" : false
+    },
+    "HeatExchanger" : {
+      "disabled" : false
+    },
+    "ThermoFluidPro" : {
+      "disabled" : false
+    },
+    "Electrification" : {
+      "disabled" : false
+    },
+    "LiquidCooling" : {
+      "disabled" : false
+    },
+    "VehicleDynamics" : {
+      "disabled" : false
+    },
+    "EngineDynamics" : {
+      "disabled" : false
+    },
+    "VaporCycle" : {
+      "disabled" : false
+    },
+    "Pneumatics" : {
+      "disabled" : false
+    }
+  },
+  "disabledLibraries" : [ ]
+}

@@ -1,0 +1,34 @@
+{
+    "files": {
+        "Workspace\\ClosedSteamCycleTest.mo": {
+            "Workspace.ClosedSteamCycleTest": {
+                "all_changes": 1673904157263,
+                "non_structural_changes": {},
+                "structural_changes": 0
+            },
+            "Workspace.ClosedSteamCycleTest.CoolMedium": {
+                "all_changes": 1673904157263,
+                "structural_changes": 1673904157263,
+                "non_structural_changes": {}
+            },
+            "Workspace.ClosedSteamCycleTest.Medium": {
+                "all_changes": 1673904157263,
+                "structural_changes": 1673904157263,
+                "non_structural_changes": {}
+            },
+            "Workspace.ClosedSteamCycleTest.SatMedium": {
+                "all_changes": 1673904157263,
+                "structural_changes": 1673904157263,
+                "non_structural_changes": {}
+            }
+        },
+        "Workspace": {
+            "Workspace": {
+                "all_changes": 1673903246819,
+                "structural_changes": 1673903246819,
+                "non_structural_changes": {}
+            }
+        }
+    },
+    "last_edit": 1673904157263
+}
